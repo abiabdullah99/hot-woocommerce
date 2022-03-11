@@ -1,0 +1,247 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bitter', serif;
+}
+#header{
+   width: 1150px;
+   margin: auto;
+   margin-top: 20px;
+}
+.img-1{
+   width: 140px;
+}
+.d-flex ul li{
+    margin: 0 10px;
+}
+.d-flex ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Bitter', serif;
+}
+.d-block{
+    width: 670px;
+}
+.container{
+    height: 100%;
+}
+.col-md-5 h1{
+    font-size: 29px;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+.col-md-5 p{
+    font-size: 15px;
+    font-family: 'Bitter', serif;
+    font-weight: 200;
+    letter-spacing: 1px;
+    width: 80%;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+
+}
+.buy-now-butto:hover{
+    background: black;
+    transition: 0.4s;
+    
+
+}
+.arrow{
+    width: 20px;
+}
+.background{
+    width: 80px;
+    position: relative;
+    left: 38%;
+    top: 80px;
+}
+.back-id{
+    width: 180px;
+    margin-top: -150px;
+    margin-left: -95px;
+}
+
+.haif-width{
+    padding: 20px 0px;
+}
+
+.haif-width h1{
+    font-size: 23px;
+    font-family: 'Bitter', serif;
+    font-weight: 550;
+    letter-spacing: 1px;
+
+}
+
+.row-cols-1{
+   display: flex;
+}
+
+.img{
+    width: 250px;
+    margin: auto;
+    padding: 50px 0px;
+}
+.card-title{
+    font-size: 20px;
+    font-family:  'Bitter', serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: -40px;
+    letter-spacing: 1.5px;
+}
+.card-text{
+    font-size: 13px;
+    font-family:  'Bitter', serif;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing: 1px;
+}
+.card-titl{
+    font-size: 20px;
+    font-family:  'Bitter', serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.buy-now-butto{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+    cursor: pointer;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 105px;
+    text-transform: uppercase;
+    
+
+}
+.card-1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 5px rgba(0,0,0,0.1), 
+    inset -5px -5px 15px rgba(255, 255, 255, 0.26),
+    5px -5px 15px rgba(0,0,0,0.1),
+    -5px -5px 15px rgba(255, 255, 255, 0.432);
+    margin-bottom: 30px;
+    
+}
+.haif-width::before{
+    content: 'See All';
+    position: absolute;
+    right: 190px;
+    font-size: 17px;
+    font-family: 'Bitter', serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #f8b90c;
+}
+
+
+
+.categori{
+    text-align: center;
+    margin-top: 120px;
+    letter-spacing: 1px;
+    font-size: 23px;
+    font-family: 'Bitter', serif;
+    font-weight: 600;
+}
+.categori hr{
+    width: 100px;
+    background: linear-gradient(45deg, #ff0000, #ff6005);
+    padding: 3px;
+    border-radius: 20px;
+    margin-left: 705px;
+}
+.col-md-2{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    box-shadow:inset 5px 5px 5px rgba(0,0,0,0.1), 
+    inset -5px -5px 15px rgba(255, 255, 255, 0.26),
+    5px -5px 15px rgba(0,0,0,0.1),
+    -5px -5px 15px rgba(255, 255, 255, 0.432);
+    height: 220px;
+   
+}
+.col-md-2 img{
+   width: 120px;
+   position: relative;
+   left: 26px;
+   top: 44px;
+}
+.col-md-4{
+    width: 100%;
+}
+.col-md-6 img{
+    width: 100%;
+}
+.col img{
+    width: 120px;
+    position: relative;
+    left: 26px;
+    top: 44px;
+}
+.col{
+    position: relative;
+    left: 40px;
+    top: 130px;
+    box-shadow:inset 5px 5px 5px rgba(0,0,0,0.1), 
+    inset -5px -5px 15px rgba(255, 255, 255, 0.26),
+    5px -5px 15px rgba(0,0,0,0.1),
+    -5px -5px 15px rgba(255, 255, 255, 0.432);
+    height: 200px;
+    width: 200px;
+
+}
+.colo{
+    position: relative;
+    top: 100px;
+    left: 40px;
+    box-shadow:inset 5px 5px 5px rgba(0,0,0,0.1), 
+    inset -5px -5px 15px rgba(255, 255, 255, 0.26),
+    5px -5px 15px rgba(0,0,0,0.1),
+    -5px -5px 15px rgba(255, 255, 255, 0.432);
+    height: 200px;
+    flex: 0 0 auto;
+    width: 200px;
+
+}
+.colo img{
+    width: 120px;
+    position: relative;
+    left: 30px;
+    top: 44px;
+}
+
+.col-md-6{
+    position: relative;
+    top: 100px;
+}
+.end{
+   margin-bottom: 300px;
+}
